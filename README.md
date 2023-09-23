@@ -32,3 +32,7 @@ width: 1100;: This value should have a unit (e.g., px or rem) like width: 1100px
 * container:hover img:opacity: 0.3;: Reduces the opacity of the image to 0.3 when hovering over the container.
 * container img:hover:transform: perspective(800px) rotateY(0deg);: Returns the image to its original state when hovering over the image itself.
 opacity: 1;: Restores full opacity to the image on hover.
+
+# HostedLink
+
+https://nikhitha5511.github.io/Animation/?authuser=0
